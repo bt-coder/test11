@@ -1,0 +1,18 @@
+processes:
+avira.systray       1.0		25k
+avira.servicehost   1.0		14k
+avgurd				20k
+avgnt				3.3k
+avshadow			400k
+sched				1.6k
+				65k total
+
+services:
+5 auto
+3 started
+
+
+processes-memory
+2-10 - avast
+4-30 - panda
+
